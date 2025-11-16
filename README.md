@@ -1,8 +1,8 @@
-# Barasat Rail-Mate 🚆
+# Rail Mate 🚆
 
 **Seamless Train Travel Starts Here. Your Ultimate Digital Ticketing Companion.**
 
-Barasat Rail-Mate is a modern, responsive Progressive Web App (PWA) built with Python and Django, designed to revolutionize the local train ticketing experience. Say goodbye to long queues and confusing interfaces. With Rail-Mate, you get a beautiful, fast, and straightforward way to book your train tickets from anywhere, at any time.
+ Rail-Mate is a modern, responsive Progressive Web App (PWA) built with Python and Django, designed to revolutionize the local train ticketing experience. Say goodbye to long queues and confusing interfaces. With Rail-Mate, you get a beautiful, fast, and straightforward way to book your train tickets from anywhere, at any time.
 
 <!-- ![Barasat Rail-Mate Showcase](https://i.imgur.com/example.png) 
 *(Image not available, replace with a screenshot of your app)* -->
