@@ -35,6 +35,10 @@ def profile(request):
     user_profile = request.session.get('user_profile')
     return render(request, 'tickets/profile.html', {'user_profile': user_profile})
 
+def logout_user(request):
+    request.session.flush()
+    return redirect('landing')
+
 def station_suggestions(request):
     query = request.GET.get('term', '')
     

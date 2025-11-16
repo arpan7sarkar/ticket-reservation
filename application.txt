@@ -1,7 +1,7 @@
 Goal: Generate a modern, mobile-friendly interface for a local Indian train ticketing system focusing on Barasat, West Bengal. The design must prioritize speed for daily commuters and clear information for distant travelers.
 
 1. Core Structure & Theme:
-App Name: Barasat Rail-Mate
+App Name: Rail Mate
 
 Target Device: Mobile (iOS/Android look and feel)
 
